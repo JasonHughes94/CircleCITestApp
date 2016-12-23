@@ -1,0 +1,1 @@
+Simple DotNet Core app to be used with Circle CI and DockerHub
